@@ -109,7 +109,7 @@ flexible as possible to the tester.
 
 Originally this module was designed not to have external requirements, 
 however, the features provided by L<Sub::Exporter> over what L<Exporter>
-provides is just to great to pass up.
+provides is just too great to pass up.
 
 Test::Output ties STDOUT and STDERR using Test::Output::Tie.
 
